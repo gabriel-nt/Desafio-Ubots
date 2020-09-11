@@ -67,9 +67,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Esse projeto foi utilizou das seguintes lib:
 
 - react-router-dom
-- date-fns
-- polished
-- react-dropzone
+- react-icons
+- Eslint
+- Prettier
 
 ### 📝 Licença
 
