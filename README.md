@@ -49,7 +49,7 @@ $ yarn start
 ```
 
 ### 📌 API
-Para mostrar os dados na tela, precisamos consumir uma api. Para criar esse software foi disponibilizou uma API 
+Para mostrar os dados na tela, precisamos consumir uma api. Para criar esse software foi disponibilizada uma API 
 com cadastro de clientes (http://www.mocky.io/v2/598b16291100004705515ec5) e histórico de compras (http://www.mocky.io/v2/598b16861100004905515ec7).
 
 ### 🚀 Tecnologias
